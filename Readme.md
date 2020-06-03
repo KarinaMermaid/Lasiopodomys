@@ -1,18 +1,3 @@
-Узкочерепная полевка Lasiopodomys gregalis – широкоареальный вид грызунов.
- Мы показали, что популяции из Юго-Восточного Забайкалья и Восточной Монголии
- представляют собой криптичеcкий вид Lasiopodomys raddei. 
- При скрещивании L. raddei  и L. gregalis в лаборатории потомства
- получить не удалось, при том, что контрольные группы внутри своего
- вида успешно размножались (Petrova et.al. 2016). 
-Мы отсеквенировали транскриптомы для трех особей от каждого вида. 
-Задача – выяснить, связана ли репродуктивная изоляция с какими-то
- конкретными участками транскриптома.
+##The search of association with reproductive isolation in narrow-headed vole
 
-    в проекте должен содержаться файле README.md, содержащий следующие основные элементы:
-
-    цели и задачи проекта;
-    краткое описание используемых методов;
-    системные требования для разработанного ПО (требования по памяти/CPU, необходимая версия операционной системы, интерпретатора, библиотек и пр.);
-    инструкция по запуску разработанного ПО (для консольного приложения - описание ключей запуска, примеры команд с выбранными ключами);
-    примеры получаемых с помощью ПО результатов (текст, графики, таблицы и пр.);
-    ссылки на используемую литературу, базы данных и пр.
+Narrow-headed vole *Lasiopodomys gregalis* (Cricetidae, Rodentia) is a widespread species inhabiting Palearctic realm. Recently it was shown that South-East of the Zabaykalskii Region and Eastern Mongolia populations represent cryptic species - *Lasiopodomys raddei*. Experimental crossing of *L. raddei* and *L. gregalis* do not result in any progeny, while control sample of conspecifics successfully reproduced (Petrova et al., 2016).
