@@ -1,5 +1,5 @@
 ## The search of association with reproductive isolation in narrow-headed vole
-
+{:toc}
 ### Introduction
 Narrow-headed vole *Lasiopodomys gregalis* (Cricetidae, Rodentia) is a widespread species inhabiting Palearctic realm. Recently it was shown that South-East of the Zabaykalskii Region and Eastern Mongolia populations represent cryptic species - *Lasiopodomys raddei*. Experimental crossing of *L. raddei* and *L. gregalis* do not result in any progeny, while control sample of conspecifics successfully reproduced (Petrova et al., 2016).
 
@@ -20,4 +20,5 @@ The **available data** at the start of the project were: 6 RNA-seq datasets of r
 ### Workflow
 
 The workflow of the project presented at the following scheme. Each part of scheme will be discussed below.
-image: ![meow](workflow.png) 
+
+![meow](workflow.png) 
